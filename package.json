@@ -1,0 +1,23 @@
+{
+  "name": "zoo-keepr",
+  "version": "1.0.0",
+  "description": "Zoo-Keeper app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtuttle93/Zoo-Kepr.git"
+  },
+  "keywords": [
+    "Zoo"
+  ],
+  "author": "Ryan Tuttle/Rtuttle93/https://github.com/rtuttle93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtuttle93/Zoo-Kepr/issues"
+  },
+  "homepage": "https://github.com/rtuttle93/Zoo-Kepr#readme"
+}
